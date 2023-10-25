@@ -1,0 +1,13 @@
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.exe
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.deps.json
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.runtimeconfig.json
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.runtimeconfig.dev.json
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.dll
+E:\software\Visual Stuido\Registro ventas\Registro ventas\bin\Debug\netcoreapp3.1\Registro ventas.pdb
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.csproj.AssemblyReference.cache
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.AssemblyInfoInputs.cache
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.AssemblyInfo.cs
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.csproj.CoreCompileInputs.cache
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.dll
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.pdb
+E:\software\Visual Stuido\Registro ventas\Registro ventas\obj\Debug\netcoreapp3.1\Registro ventas.genruntimeconfig.cache
